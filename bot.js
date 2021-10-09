@@ -87,7 +87,7 @@ async function whatsAsena () {
             const { infoen, infosi} = ann.data.announcements          
             if (infoen !== '' && config.LANG == 'EN') {
                 while (getGMTh == 21 && getGMTm == 31) { 
-                    return conn.sendMessage(conn.user.jid, '[ ```🔔💕Dileepa Announcements🔔``` ]\n\n' + infoen.replace('{user}', conn.user.name).replace('{wa_version}', conn.user.phone.wa_version).replace('{version}', config.VERSION).replace('{os_version}', conn.user.phone.os_version).replace('{device_model}', conn.user.phone.device_model).replace('{device_brand}', conn.user.phone.device_manufacturer), MessageType.text) 
+                    return conn.sendMessage(conn.user.jid, '[ ```🔔Dileepa Announcements🔔``` ]\n\n' + infoen.replace('{user}', conn.user.name).replace('{wa_version}', conn.user.phone.wa_version).replace('{version}', config.VERSION).replace('{os_version}', conn.user.phone.os_version).replace('{device_model}', conn.user.phone.device_model).replace('{device_brand}', conn.user.phone.device_manufacturer), MessageType.text) 
                 }
             }
             else if (infosi !== '' && config.LANG == 'EN') {
@@ -365,7 +365,7 @@ ${chalk.blue.italic('ℹ️ WhatsApp වෙත සම්බන්ධ වෙම�
                                     '\n_මෙම දෝෂ logs ඔබගේ අංකය හෝ ප්‍රති පාර්ශ්වයේ අංකය අඩංගු විය හැකිය. කරුණාකර එය සමග සැලකිලිමත් වන්න!_\n' +
                                     '\n_උදව් සඳහා ඔබට අපගේ whatsapp support කණ්ඩායමට ලිවිය හැකිය._\n' +
                                     '\n_මෙම පණිවිඩය ඔබගේ අංකයට ගොස් තිබිය යුතුය (සුරකින ලද පණිවිඩ)_\n\n' +
-                                    '\n_https://chat.whatsapp.com/EVBPN1G1Pv58X6AeSFz2LN ඔබට එය මෙම group යොමු කළ හැකිය._\n\n' +
+                                    '\n_ ඔබට එය මෙම group යොමු කළ හැකිය._\n\n' +
                                     '*සිදු වූ දෝෂය:* ```' + error + '```\n\n'
                                     , MessageType.text, {detectLinks: false});
                             } else {
@@ -374,7 +374,7 @@ ${chalk.blue.italic('ℹ️ WhatsApp වෙත සම්බන්ධ වෙම�
                                     '\n_Message logs ඔබගේ අංකය හෝ ප්‍රති පාර්ශ්වයේ අංකය අඩංගු විය හැකිය. කරුණාකර එය සමග සැලකිලිමත් වන්න!_\n' +
                                     '\n_උදව් සඳහා ඔබට අපගේ whatsapp support කණ්ඩායමට ලිවිය හැකිය._\n' +
                                     '\n_(සුරකින ලද පණිවිඩ)_\n\n' +
-                                    '\n_ඔබේ bot සඳහා යම් උදව්වක් අවශ්‍ය නම්, https://chat.whatsapp.com/EVBPN1G1Pv58X6AeSFz2LN_\n\n' +
+                                    '\n_ඔබේ bot සඳහා යම් උදව්වක් අවශ්‍ය නම්, _\n\n' +
                                     '*Report:* ```' + error + '```\n\n'
                                     , MessageType.text);
                             }
