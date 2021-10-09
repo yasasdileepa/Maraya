@@ -186,7 +186,221 @@ ${chalk.blue.italic('ℹ️ WhatsApp වෙත සම්බන්ධ වෙම�
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, fs.readFileSync("https://telegra.ph/file/ab4ea320d7979c2ce1734.gif"), MessageType.gif, { caption: `Black Mamba Bot Now working! 😍\n\n👋 Hay ${conn.user.name} welcome to Black Mamba 🐍\n\n🐍 _Please do not try plugins here. This is your login number. You can try the command in any chat :)_\n\n*😍 Thank You For Using Black Mamba 🐍`});
+                    await conn.sendMessage(conn.user.jid, '*Black Mamba🐍 public ආකාරයට ක්‍රියාකිරිම ආරම්භ විය.*\n\n_කරුණාකර මෙහි command උත්සාහ නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක විධාන උත්සාහ කළ හැකිය :)_\n\n*ඔබේ command list එක ලබාගැනීමට .panel command එක භාවිතා කරන්න.*\n\n*ඔබේ bot public ක්‍රියාත්මක වේ. වෙනස් කිරීමට* _.setvar WORK_TYPE:private_ *විධානය භාවිතා කරන්න.*\n\n*Updates:* https://gist.github.com/SLBADBOY/abb0e8699cdc35ac45914694de120fe6\n\n *Black Mamba🐍 භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
+                }
+            }
+            else {
+
+                if (conn.user.jid === '@s.whatsapp.net') {
+
+                    await conn.sendMessage(conn.user.jid, '```🛡️ Blacklist Detected!``` \n```User:```  \n```Reason:``` ', MessageType.text)
+
+                    await new Promise(r => setTimeout(r, 1800));
+
+                    console.log('🛡️ Blacklist Detected 🛡️')
+                    await heroku.get(baseURI + '/formation').then(async (formation) => {
+                        forID = formation[0].id;
+                        await heroku.patch(baseURI + '/formation/' + forID, {
+                            body: {
+                                quantity: 0
+                            }
+                        });
+                    })
+                }
+                else {
+                    await conn.sendMessage(conn.user.jid, '*Black Mamba🐍 public ආකාරයට ක්‍රියාකිරිම ආරම්භ විය.*\n\n_කරුණාකර මෙහි command උත්සාහ නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක විධාන උත්සාහ කළ හැකිය :)_\n\n*ඔබේ command list එක ලබාගැනීමට .panel command එක භාවිතා කරන්න.*\n\n*ඔබේ bot public ක්‍රියාත්මක වේ. වෙනස් කිරීමට* _.setvar WORK_TYPE:private_ *විධානය භාවිතා කරන්න.*\n\n*Updates:* https://gist.github.com/SLBADBOY/abb0e8699cdc35ac45914694de120fe6\n\n *Black Mamba🐍 භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
+                }
+
+            }
+        }
+        else if (config.WORKTYPE == 'private') {
+            if (config.LANG == 'TR' || config.LANG == 'AZ') {
+
+                if (conn.user.jid === '@s.whatsapp.net') {
+
+                    await conn.sendMessage(conn.user.jid, '```🛡️ Blacklist Detected!``` \n ```පරිශීලක:``` \n```හේතුව:``` ', MessageType.text)
+
+                    await new Promise(r => setTimeout(r, 1800));
+
+                    console.log('🛡️ Blacklist Detected 🛡️')
+                    await heroku.get(baseURI + '/formation').then(async (formation) => {
+                        forID = formation[0].id;
+                        await heroku.patch(baseURI + '/formation/' + forID, {
+                            body: {
+                                quantity: 0
+                            }
+                        });
+                    })
+                }
+                else {
+
+                await conn.sendMessage(conn.user.jid, '*private ආකාරයට ක්‍රියාකිරිම ආරම්භ විය.*\n\n_කරුණාකර මෙහි command උත්සාහ නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක විධාන උත්සාහ කළ හැකිය :)_\n\n*ඔබේ command list එක ලබාගැනීමට .panel command එක භාවිතා කරන්න.*\n\n*ඔබේ bot private ක්‍රියාත්මක වේ. වෙනස් කිරීමට* _.setvar WORK_TYPE:public_ *විධානය භාවිතා කරන්න.Updates:* https://gist.github.com/SLBADBOY/abb0e8699cdc35ac45914694de120fe6\n\n*\n\n *Black Mamba🐍 භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
+                }
+            }
+            else {
+
+                if (conn.user.jid === '@s.whatsapp.net') {
+
+                    await conn.sendMessage(conn.user.jid, '```🛡️ Blacklist Detected!``` \n```User:```  \n```Reason:``` ', MessageType.text)
+   
+                    await new Promise(r => setTimeout(r, 1800));
+
+                    console.log('🛡️ Blacklist Detected 🛡️')
+                    await heroku.get(baseURI + '/formation').then(async (formation) => {
+                        forID = formation[0].id;
+                        await heroku.patch(baseURI + '/formation/' + forID, {
+                            body: {
+                                quantity: 0
+                            }
+                        });
+                    })
+                }
+                else {
+
+                    await conn.sendMessage(conn.user.jid, '*private ආකාරයට ක්‍රියාකිරිම ආරම්භ විය.*\n\n_කරුණාකර මෙහි command උත්සාහ නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක විධාන උත්සාහ කළ හැකිය :)_\n\n*ඔබේ command list එක ලබාගැනීමට .panel command එක භාවිතා කරන්න.*\n\n*ඔබේ bot private ක්‍රියාත්මක වේ. වෙනස් කිරීමට* _.setvar WORK_TYPE:public_ *විධානය භාවිතා කරන්න.*\n\nUpdates:* https://gist.github.com/SLBADBOY/abb0e8699cdc35ac45914694de120fe6\n\n *Black Mamba🐍 භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
+                }
+            }
+        }
+        else {
+            return console.log('Wrong WORK_TYPE key! Please use “private” or “public”')
+        }
+    });
+
+    
+    conn.on('message-new', async msg => {
+        if (msg.key && msg.key.remoteJid == 'status@broadcast') return;
+
+        if (config.NO_ONLINE) {
+            await conn.updatePresence(msg.key.remoteJid, Presence.unavailable);
+        }
+
+        if (msg.messageStubType === 32 || msg.messageStubType === 28) {
+            // see you message
+            var blogo = await axios.get(config.BYE_LOGO, {responseType: 'arraybuffer'})
+            var gb = await getMessage(msg.key.remoteJid, 'goodbye')
+            
+            if (gb !== false) {
+                await conn.sendMessage(msg.key.remoteJid, Buffer.from (blogo.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message});
+            }
+            return;
+        } else if (msg.messageStubType === 27 || msg.messageStubType === 31) {
+            // Welcome message
+            var wlogo = await axios.get(config.WELCOME_LOGO, {responseType: 'arraybuffer'})
+            var gb = await getMessage(msg.key.remoteJid)
+            
+            if (gb !== false) {
+                await conn.sendMessage(msg.key.remoteJid, Buffer.from (wlogo.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message});
+            }
+            return;
+        }
+
+        events.commands.map(
+            async (command) =>  {
+                if (msg.message && msg.message.imageMessage && msg.message.imageMessage.caption) {
+                    var text_msg = msg.message.imageMessage.caption;
+                } else if (msg.message && msg.message.videoMessage && msg.message.videoMessage.caption) {
+                    var text_msg = msg.message.videoMessage.caption;
+                } else if (msg.message) {
+                    var text_msg = msg.message.extendedTextMessage === null ? msg.message.conversation : msg.message.extendedTextMessage.text;
+                } else {
+                    var text_msg = undefined;
+                }
+
+                if ((command.on !== undefined && (command.on === 'image' || command.on === 'photo')
+                    && msg.message && msg.message.imageMessage !== null && 
+                    (command.pattern === undefined || (command.pattern !== undefined && 
+                        command.pattern.test(text_msg)))) || 
+                    (command.pattern !== undefined && command.pattern.test(text_msg)) || 
+                    (command.on !== undefined && command.on === 'text' && text_msg) ||
+                    // Video
+                    (command.on !== undefined && (command.on === 'video')
+                    && msg.message && msg.message.videoMessage !== null && 
+                    (command.pattern === undefined || (command.pattern !== undefined && 
+                        command.pattern.test(text_msg))))) {
+
+                    let sendMsg = false;
+                    var chat = conn.chats.get(msg.key.remoteJid)
+                        
+                    if ((config.SUDO !== false && msg.key.fromMe === false && command.fromMe === true &&
+                        (msg.participant && config.SUDO.includes(',') ? config.SUDO.split(',').includes(msg.participant.split('@')[0]) : msg.participant.split('@')[0] == config.SUDO || config.SUDO.includes(',') ? config.SUDO.split(',').includes(msg.key.remoteJid.split('@')[0]) : msg.key.remoteJid.split('@')[0] == config.SUDO)
+                    ) || command.fromMe === msg.key.fromMe || (command.fromMe === false && !msg.key.fromMe)) {
+                        if (command.onlyPinned && chat.pin === undefined) return;
+                        if (!command.onlyPm === chat.jid.includes('-')) sendMsg = true;
+                        else if (command.onlyGroup === chat.jid.includes('-')) sendMsg = true;
+                    }
+    
+                    if (sendMsg) {
+                        if (config.SEND_READ && command.on === undefined) {
+                            await conn.chatRead(msg.key.remoteJid);
+                        }
+                        
+                        var match = text_msg.match(command.pattern);
+                        
+                        if (command.on !== undefined && (command.on === 'image' || command.on === 'photo' )
+                        && msg.message.imageMessage !== null) {
+                            whats = new Image(conn, msg);
+                        } else if (command.on !== undefined && (command.on === 'video' )
+                        && msg.message.videoMessage !== null) {
+                            whats = new Video(conn, msg);
+                        } else {
+                            whats = new Message(conn, msg);
+                        }
+                        if (msg.key.fromMe) {
+                            var vers = conn.user.phone.wa_version.split('.')[2]
+                            try {
+                                if (command.deleteCommand && vers < 12) { 
+                                    await whats.delete() 
+                                 }
+                                 else { 
+                                     await command.function(whats, match);
+                                 }
+                             } catch (err) { await command.function(whats, match) } }
+
+                        try {
+                            await command.function(whats, match);
+                        } catch (error) {
+                            if (config.LANG == 'TR' || config.LANG == 'AZ') {
+                                await conn.sendMessage(conn.user.jid, '*-- දෝෂ වාර්තාව [Black Mamba🐍] --*\n\n' + 
+                                    '\n*Bot දෝෂයක් සිදුවී ඇත!\n*'+
+                                    '\n_මෙම දෝෂ logs ඔබගේ අංකය හෝ ප්‍රති පාර්ශ්වයේ අංකය අඩංගු විය හැකිය. කරුණාකර එය සමග සැලකිලිමත් වන්න!_\n' +
+                                    '\n_උදව් සඳහා ඔබට අපගේ whatsapp support කණ්ඩායමට ලිවිය හැකිය._\n' +
+                                    '\n_මෙම පණිවිඩය ඔබගේ අංකයට ගොස් තිබිය යුතුය (සුරකින ලද පණිවිඩ)_\n\n' +
+                                    '\n_https://chat.whatsapp.com/LIANu0r4V2fC3S4rkizhLK ඔබට එය මෙම group යොමු කළ හැකිය._\n\n' +
+                                    '*සිදු වූ දෝෂය:* ```' + error + '```\n\n'
+                                    , MessageType.text, {detectLinks: false});
+                            } else {
+                                await conn.sendMessage(conn.user.jid, '*-- බොට් වාර්තාව [Black Mamba🐍] --*\n' + 
+                                    '\n*බොට් නිසි ලෙස ක්රියා කරයි.*\n'+
+                                    '\n_Message logs ඔබගේ අංකය හෝ ප්‍රති පාර්ශ්වයේ අංකය අඩංගු විය හැකිය. කරුණාකර එය සමග සැලකිලිමත් වන්න!_\n' +
+                                    '\n_උදව් සඳහා ඔබට අපගේ whatsapp support කණ්ඩායමට ලිවිය හැකිය._\n' +
+                                    '\n_(සුරකින ලද පණිවිඩ)_\n\n' +
+                                    '\n_ඔබේ bot සඳහා යම් උදව්වක් අවශ්‍ය නම්, https://chat.whatsapp.com/LIANu0r4V2fC3S4rkizhLK_\n\n' +
+                                    '*Report:* ```' + error + '```\n\n'
+                                    , MessageType.text);
+                            }
+                        }
+                    }
+                }
+            }
+        )
+    });
+
+    try {
+        await conn.connect();
+    } catch {
+        if (!nodb) {
+            console.log(chalk.red.bold('Refreshing your old version string...'))
+            conn.loadAuthInfo(Session.deCrypt(config.SESSION)); 
+            try {
+                await conn.connect();
+            } catch {
+                return;
+            }
+        }
+    }
+}
+
+whatsAsena();
                 }
             }
             else {
