@@ -1,5 +1,5 @@
 {
-    "name": "Dileepa",
+    "name": "king ravana",
     "description": "Dileepa💢 project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://telegra.ph/file/7de56858209649d760d99.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
@@ -8,14 +8,14 @@
     "success_url": "https://t.me/farhan-dqz",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "Ravana_SESSION": {
             "description": "ඔබ ඔබගෙ whatsappහි Sacn කෙරූ තැන ආපු Code eka දන්න",
             "required": true
         },
         "SUDO": {
             "description": "මෙය වෙනස් වැලකෙන්න!",
             "required": false,
-            "value": "94762157933,0"
+            "value": "94703179493,0"
         },
         "LANGUAGE": {
             "description": "",
