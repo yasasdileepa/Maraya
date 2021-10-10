@@ -1,6 +1,6 @@
 ###    ලංකාවේ🇱🇰 සිංහල බොටෙක්
 
-[![Profile views](https://komarev.com/ghpvc/?username=king-ravana-SL&label=Profile%20Views&color=red)](https://github.com/dileeparathnayaka/King-ravana)
+[![Profile views](https://komarev.com/ghpvc/?username=king-ravana-SL&label=Profile%20Views&color=red)](https://github.com/yasasdileepa/slDILEEPA)
 
 [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
 
