@@ -1,4 +1,4 @@
-###      Dileepa BOT ලංකාවේ🇱🇰 සිංහල බොටෙක්
+###      KING RAVANA ලංකාවේ🇱🇰 සිංහල බොටෙක්
 
 
 
@@ -17,7 +17,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 Click Whatsapp logo to Join Support Group 👇
 <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)]()
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GS7ZfzGCajz8Jylj2NqsZH)
   <div align="center">
        
   </div>
