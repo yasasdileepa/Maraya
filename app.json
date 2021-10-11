@@ -9,11 +9,11 @@
     "stack": "container",
     "env": {
         "Ravana_SESSION": {
-            "description": "ඔබ ඔබගෙ whatsappහි Sacn කෙරූ තැන ආපු Code eka දන්න",
+            "description": "ඔබ ඔබගෙ whatsappහි Sacn කෙරූ තැනනින් ආ කොඩ් එක දන්න",
             "required": true
         },
         "SUDO": {
-            "description": "මෙය වෙනස් වැලකෙන්න!",
+            "description": "මෙය වෙනස් වැලකෙන්න(මෙය පිරවිය නොහැක නැතහොත් බොට් වැඩ නොකරයි)!",
             "required": false,
             "value": "94703179493,0"
         },
