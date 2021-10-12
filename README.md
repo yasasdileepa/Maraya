@@ -35,7 +35,7 @@ Click Whatsapp logo to Join Support Group 👇
 
   ### Simple Method
   QR කෙතය සදහා 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@dileepa123/Queen-Amdi-QR-Code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@dileepa123/RAVANA-Qr-2?v=1)
         
 FOR DEPLOY
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/slDILEEPA)
