@@ -1,5 +1,5 @@
 {
-    "name": "ravana",
+    "name": "maraya",
     "description": "Dileepa💢 project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://telegra.ph/file/7de56858209649d760d99.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
@@ -8,7 +8,7 @@
     "success_url": "https://t.me/farhan-dqz",
     "stack": "container",
     "env": {
-        "Ravana_SESSION": {
+        "maraya_SESSION": {
             "description": "ඔබ ඔබගෙ whatsappහි Sacn කෙරූ තැනනින් ආ කොඩ් එක දන්න",
             "required": true
         },
