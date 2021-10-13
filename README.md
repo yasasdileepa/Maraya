@@ -24,8 +24,8 @@ Click Whatsapp logo to Join Support Group 👇
        
   </div>
   
-  ## 🐱‍👤Dileepa bot විශේෂාංග
-🐱‍👤Dileepa bot විශේෂාංග මෙන්න.
+  ## 🐱‍👤මාරයා bot විශේෂාංග
+🐱‍👤මාරයා bot විශේෂාංග මෙන්න.
 <a href="https://gist.github.com/https://github.com/yasasdileepa/64b891a432607ba67e55c44f234fbd8f">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
@@ -35,9 +35,10 @@ Click Whatsapp logo to Join Support Group 👇
 
   ### Simple Method
   QR කෙතය සදහා 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@yasasdileepa/Maraya-1?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@dileepa123/Maraya-1?v=1)
         
 FOR DEPLOY
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/slDILEEPA)
      </div>
-කරුනාවෙන් සලකන්න උඩ තිබු QR CODEයෙ සම්පුරන අයිතිය black amda ට අයිතිය නමුත් එය ස්කැන් කර කොඩය ලබා ගත හැක
+  ### very simple method 
+ we are working on it
