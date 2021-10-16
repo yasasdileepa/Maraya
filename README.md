@@ -43,6 +43,6 @@ Click Whatsapp logo to Join Support Group 👇
 ## Developers
   <div align="center">
     
-  [![yasas dileepa](https://github.com/farhan-dqz.png?size=100)]
+  [![yasas dileepa](https://github.com/yasasdileepa)]
 ----|----|----
-[yasas dileepa](  )  | [TOXIC4L!3N](https://github.com/AI-VIKI) 
+[yasas dileepa](https://github.com/yasasdileepa)  | [TOXIC4L!3N](https://github.com/AI-VIKI) 
