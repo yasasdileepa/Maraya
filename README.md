@@ -40,3 +40,9 @@ Click Whatsapp logo to Join Support Group 👇
      </div>
   ### very simple method 
  we are working on it
+## Developers
+  <div align="center">
+    
+  [![yasas dileepa](https://github.com/farhan-dqz.png?size=100)]
+----|----|----
+[yasas dileepa](  )  | [TOXIC4L!3N](https://github.com/AI-VIKI) 
