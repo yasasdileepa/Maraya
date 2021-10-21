@@ -3,7 +3,7 @@
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-QueenAmdi - Black Amda
+King maraya - yasas dileepa
 */
 
 const fs = require("fs");
@@ -104,12 +104,12 @@ setInterval(async () => {
             const { infoen, infosi} = ann.data.announcements          
             if (infoen !== '' && config.LANG == 'EN' || config.LANG == 'ES') {
                 while (getGMTh == 18 && getGMTm == 00) { 
-                    return QueenAmdiCon.sendMessage(QueenAmdiCon.user.jid, '[ ```🔔Queen Amdi Announcements🔔``` ]\n\n' + infoen.replace('{user}', QueenAmdiCon.user.name).replace('{wa_version}', QueenAmdiCon.user.phone.wa_version).replace('{version}', config.VERSION).replace('{os_version}', QueenAmdiCon.user.phone.os_version).replace('{device_model}', QueenAmdiCon.user.phone.device_model).replace('{device_brand}', QueenAmdiCon.user.phone.device_manufacturer), MessageType.text) 
+                    return QueenAmdiCon.sendMessage(QueenAmdiCon.user.jid, '[ ```🔔maraya Announcements🔔``` ]\n\n' + infoen.replace('{user}', QueenAmdiCon.user.name).replace('{wa_version}', QueenAmdiCon.user.phone.wa_version).replace('{version}', config.VERSION).replace('{os_version}', QueenAmdiCon.user.phone.os_version).replace('{device_model}', QueenAmdiCon.user.phone.device_model).replace('{device_brand}', QueenAmdiCon.user.phone.device_manufacturer), MessageType.text) 
                 }
             }
             else if (infosi !== '' && config.LANG == 'SI') {
                 while (getGMTh == 18 && getGMTm == 00) { 
-                    return QueenAmdiCon.sendMessage(QueenAmdiCon.user.jid, '[ ```🔔Queen Amdi නිවේදන🔔``` ]\n\n' + infosi.replace('{user}', QueenAmdiCon.user.name).replace('{wa_version}', QueenAmdiCon.user.phone.wa_version).replace('{version}', config.VERSION).replace('{os_version}', QueenAmdiCon.user.phone.os_version).replace('{device_model}', QueenAmdiCon.user.phone.device_model).replace('{device_brand}', QueenAmdiCon.user.phone.device_manufacturer), MessageType.text) 
+                    return QueenAmdiCon.sendMessage(QueenAmdiCon.user.jid, '[ ```🔔maraya නිවේදන🔔``` ]\n\n' + infosi.replace('{user}', QueenAmdiCon.user.name).replace('{wa_version}', QueenAmdiCon.user.phone.wa_version).replace('{version}', config.VERSION).replace('{os_version}', QueenAmdiCon.user.phone.os_version).replace('{device_model}', QueenAmdiCon.user.phone.device_model).replace('{device_brand}', QueenAmdiCon.user.phone.device_manufacturer), MessageType.text) 
                 }
             }
         })
@@ -188,7 +188,7 @@ if (/\[(\W*)\]/.test(config.HANDLERS)) {
 // --------------End of verify system coding--------------
 */
 
-// ======================Queen_Amdi_Logger=======================
+// ======================maraya_Logger=======================
 QueenAmdiCon.logger.level = config.DEBUG ? 'debug' : 'warn';
 var nodb;
 
