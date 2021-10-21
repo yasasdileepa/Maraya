@@ -7,7 +7,7 @@
     
        | © | MADE BY DILEEPA |
     
-    
+   
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
@@ -34,9 +34,9 @@ Click Whatsapp logo to Join Support Group 👇
 <div align="center">
 
   ### Simple Method
-QR කෙතය සදහා 👇
+### පලමු පියවර QR කෙතය සදහා 👇
 [![Run on Repl.it](https://raw.githubusercontent.com/Sew01RaviduManoj01KingAndQueen/QueenSew/master/resources/gif/qr-scan.gif)](https://replit.com/@dileepa123/Maraya-1?v=1)
- Bot deploy කිරිමට 👇       
+### දෙවන පියවර Bot deploy කිරිමට 👇       
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/slDILEEPA)
      </div>
   ### very simple method 
@@ -46,4 +46,4 @@ QR කෙතය සදහා 👇
     
   [![yasas dileepa](https://github.com/yasasdileepa)]
 ----|----|----
-[yasas dileepa](https://github.com/yasasdileepa)  | [TOXIC4L!3N](https://github.com/AI-VIKI) 
+###╚═══❖•ೋ° °ೋ•❖═══╝*maraya*╚═══❖•ೋ° °ೋ•❖═══╝*
