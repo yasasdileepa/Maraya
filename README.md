@@ -42,9 +42,18 @@ Click Whatsapp logo to Join Support Group 👇
      </div>
   ### very simple method 
  we are working on it
-## Developers
-  <div align="center">
-    
-  [![yasas dileepa](https://github.com/yasasdileepa)]
-----|----|----
-###╚═══❖•ೋ° °ೋ•❖═══╝*maraya*╚═══❖•ೋ° °ೋ•❖═══╝*
+
+  #### maraya Project Team
+
+<table>
+										<tbody>
+											<tr>
+												<td><a  href="httsp://github.com/kgam"https://i.ibb.co/8gMSvBB/LOGO.jpg" width="100" height="100" alt="Yasas dilipa"></a></td>
+												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/VBzzh95/LOGO.jpg" width="100" height="100" alt="Adeesha"></a></td>
+				                                                        </tr>
+											<tr>
+"httsp://github.com/kgamdaofficial">Yasas dilipa</a></br>(founder)</td>
+												<td><a href="httsp://github.com/kgamdaofficial">Adeesha</a></br>(co-host)</td>
+										</tbody>
+									</table>  
+ 
