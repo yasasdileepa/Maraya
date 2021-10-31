@@ -22,7 +22,8 @@ Click Whatsapp logo to Join Support Group 👇
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/F8av3DvPCt8DPcZH7ZREMC)
   <div align="center">
-       
+     my you tube chanel click this link 👇
+    (https://youtube.com/channel/UCYpzhRBGT4x3avaE3DR5_jA)
   </div>
   
   ## 🐱‍👤මාරයා bot විශේෂාංග
