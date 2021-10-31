@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
 
-    
+  <img src="https://i.ibb.co/99Nfwfy/a62902c0458a23d705492bb701371a43-cool-wallpapers-for-iphone-wallpaper-for-iphone.jpg" width="300" height="300">      
+  <h1>maraya 😼</h1>  
        | © | MADE BY DILEEPA |
     
    
