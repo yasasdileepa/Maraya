@@ -22,16 +22,15 @@ Click Whatsapp logo to Join Support Group 👇
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/F8av3DvPCt8DPcZH7ZREMC)
   <div align="center">
-     my you tube chanel click this link 👇
-    (https://youtube.com/channel/UCYpzhRBGT4x3avaE3DR5_jA)
+     
   </div>
   
   ## 🐱‍👤මාරයා bot විශේෂාංග
 🐱‍👤මාරයා bot විශේෂාංග මෙන්න.
 <a href="https://gist.github.com/https://github.com/yasasdileepa/64b891a432607ba67e55c44f234fbd8f">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
-
-[![Chethana_Broh-TeenuhX](https://github.com/yasasdileepa/maraya/blob/main/IMG-20211102-WA0011.jpg)](https://youtu.be/DjyQX8KJGKg)
+### HOW TO MADE THIS BOT CLICK THIS LOGO 👇
+[![Chethana_Broh-TeenuhX](https://github.com/yasasdileepa/maraya/blob/main/IMG-20211030-WA0010.png)](https://youtu.be/DjyQX8KJGKg)
 
   </a>
   ##Setup
