@@ -31,6 +31,8 @@ Click Whatsapp logo to Join Support Group 👇
 <a href="https://gist.github.com/https://github.com/yasasdileepa/64b891a432607ba67e55c44f234fbd8f">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
+[![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://youtu.be/DjyQX8KJGKg)
+
   </a>
   ##Setup
 <div align="center">
