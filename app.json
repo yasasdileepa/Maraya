@@ -8,7 +8,7 @@
     "success_url": "https://t.me/farhan-dqz",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "MARAYA_SESSION": {
             "description": "Qr.Js සමඟ ඔබ නිර්මාණය කළ අභිරුචි session කේතය.ඇතුලත් කරන්න",
             "required": true
         },
@@ -86,7 +86,7 @@
         "ALIVE_MESSAGE": {
             "description": "අභිරුචිකරණය කළ හැකි සජීවී පණිවිඩය! ආපසු වෙනස් කිරීමට => පෙරනිමිය භාවිතා කරන්න.",
             "required": false,
-            "value": "```I am Alive```\n\n```Coded By RAVANA```"
+            "value": "```I am Alive```\n\n```Coded By MARAYA```"
         },
         "BAN_MESSAGE": {
             "description": "අභිරුචිකරණය කළ හැකි තහනම් පණිවිඩයක්! ආපසු වෙනස් කිරීමට => පෙරනිමිය භාවිතා කරන්න.",
@@ -128,8 +128,8 @@
             "required": false,
             "value": "true"
         },
-        "COFFEEHOUSE_API_KEY": {
-            "description": "CoffeeHouse API Key. ලිඩියා සඳහා අවශ්‍යතාවය. https://coffeehouse.intellivoid.net/",
+        "IMGBB_API_KEY": {
+            "description": "IMGBB API Key. WELCOME MESSEGE සඳහා අවශ්‍යතාවය. www.imgbb.com/",
             "required": false,
             "value": "true"
         }
