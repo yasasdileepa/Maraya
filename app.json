@@ -133,8 +133,8 @@
             "required": false,
             "value": "true"
         },
-        "IMGBB_API_KEY
-          "depcription":please get imgbb api key go to the web site [www.imgbb.com]"
+        "IMGBB_API_KEY" : {
+          "depcription": "please get imgbb api key go to the web site [www.imgbb.com]"
     },
     "addons": [{
       "plan": "heroku-postgresql"
