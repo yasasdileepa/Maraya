@@ -41,7 +41,7 @@ Click Whatsapp logo to Join Support Group 👇
 ### පලමු පියවර QR කෙතය සදහා 👇
 [![Run on Repl.it](https://raw.githubusercontent.com/Sew01RaviduManoj01KingAndQueen/QueenSew/master/resources/gif/qr-scan.gif)](https://replit.com/@yasasdileepa/MARAYA-1?v=1)
 ### දෙවන පියවර Bot deploy කිරිමට 👇       
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/slDILEEPA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/maraya)
      </div>
   ### very simple method 
  we are working on it
