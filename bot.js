@@ -132,7 +132,7 @@ if (/\[(\W*)\]/.test(config.HANDLERS)) {
     setInterval(async () => { 
         var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        await axios.get('https://gist.githubusercontent.com/BlackAmda/c3877acdcdc041d77907d590d4ac1a2d/raw/').then(async (ann) => {
+        await axios.get('https://gist.githubusercontent.com/yasas dileepa/c3877acdcdc041d77907d590d4ac1a2d/raw/').then(async (ann) => {
             const { verify} = ann.data.announcements          
             if (verify !== '' && config.LANG == 'EN') {
                 while (getGMTh == 20 && getGMTm == 55) { 
