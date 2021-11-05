@@ -80,7 +80,7 @@ marayaCon.version = [2, 2126, 14]
 setInterval(async () => { 
     var getGMTh = new Date().getHours()
     var getGMTm = new Date().getMinutes()
-        await axios.get('https://gist.githubusercontent.com/BlackAmda/c3877acdcdc041d77907d590d4ac1a2d/raw/').then(async (ann) => {
+        await axios.get('https://gist.githubusercontent.com/yasasdileepa/c3877acdcdc041d77907d590d4ac1a2d/raw/').then(async (ann) => {
             const { infoen, infosi} = ann.data.announcements          
             if (infoen !== '' && config.LANG == 'EN' || config.LANG == 'ES') {
                 while (getGMTh == 08 && getGMTm == 00) { 
@@ -102,12 +102,12 @@ setInterval(async () => {
             const { infoen, infosi} = ann.data.announcements          
             if (infoen !== '' && config.LANG == 'EN' || config.LANG == 'ES') {
                 while (getGMTh == 18 && getGMTm == 00) { 
-                    return QueenAmdiCon.sendMessage(QueenAmdiCon.user.jid, '[ ```🔔maraya Announcements🔔``` ]\n\n' + infoen.replace('{user}', QueenAmdiCon.user.name).replace('{wa_version}', QueenAmdiCon.user.phone.wa_version).replace('{version}', config.VERSION).replace('{os_version}', QueenAmdiCon.user.phone.os_version).replace('{device_model}', QueenAmdiCon.user.phone.device_model).replace('{device_brand}', QueenAmdiCon.user.phone.device_manufacturer), MessageType.text) 
+                    return MarayaCon.sendMessage(QueenAmdiCon.user.jid, '[ ```🔔maraya Announcements🔔``` ]\n\n' + infoen.replace('{user}', QueenAmdiCon.user.name).replace('{wa_version}', QueenAmdiCon.user.phone.wa_version).replace('{version}', config.VERSION).replace('{os_version}', QueenAmdiCon.user.phone.os_version).replace('{device_model}', QueenAmdiCon.user.phone.device_model).replace('{device_brand}', QueenAmdiCon.user.phone.device_manufacturer), MessageType.text) 
                 }
             }
             else if (infosi !== '' && config.LANG == 'SI') {
                 while (getGMTh == 18 && getGMTm == 00) { 
-                    return QueenAmdiCon.sendMessage(QueenAmdiCon.user.jid, '[ ```🔔maraya නිවේදන🔔``` ]\n\n' + infosi.replace('{user}', QueenAmdiCon.user.name).replace('{wa_version}', QueenAmdiCon.user.phone.wa_version).replace('{version}', config.VERSION).replace('{os_version}', QueenAmdiCon.user.phone.os_version).replace('{device_model}', QueenAmdiCon.user.phone.device_model).replace('{device_brand}', QueenAmdiCon.user.phone.device_manufacturer), MessageType.text) 
+                    return MarayaCon.sendMessage(QueenAmdiCon.user.jid, '[ ```🔔maraya නිවේදන🔔``` ]\n\n' + infosi.replace('{user}', QueenAmdiCon.user.name).replace('{wa_version}', QueenAmdiCon.user.phone.wa_version).replace('{version}', config.VERSION).replace('{os_version}', QueenAmdiCon.user.phone.os_version).replace('{device_model}', QueenAmdiCon.user.phone.device_model).replace('{device_brand}', QueenAmdiCon.user.phone.device_manufacturer), MessageType.text) 
                 }
             }
         })
@@ -117,7 +117,7 @@ setInterval(async () => {
     if (config.AUTO_BIO == 'true') {
         var tz_bio = await maraya.timezone(QueenAmdiCon.user.jid)
         var date = await maraya.datebio(config.LANG)
-        const biography = '📅 ' + date + '\n⌚ ' + tz_bio + '    🎖️ ' + config.CAP 
+        const biography = '📅 ' + date + '\n⌚ ' + tz_bio + '    🎖️ ' + Maraya whatsapp bot 2021 
         await marayaCon.setStatus(biography)
     }
 }, 7890);
@@ -141,7 +141,7 @@ if (/\[(\W*)\]/.test(config.HANDLERS)) {
             }
             else if (verify !== '' && config.LANG == 'SI') {
                 while (getGMTh == 20 && getGMTm == 55) { 
-                    return marayaCon.sendMessage(QueenAmdiCon.user.jid, HANDLER + verify.replace('{user}', marayaCon.user.name).replace('{wa_version}', marayaCon.user.phone.wa_version).replace('{version}', config.VERSION).replace('{os_version}', marayaCon.user.phone.os_version).replace('{device_model}', marayaCon.user.phone.device_model).replace('{device_brand}', marayaCon.user.phone.device_manufacturer), MessageType.text) 
+                    return marayaCon.sendMessage(MarayaCon.user.jid, HANDLER + verify.replace('{user}', marayaCon.user.name).replace('{wa_version}', marayaCon.user.phone.wa_version).replace('{version}', config.VERSION).replace('{os_version}', marayaCon.user.phone.os_version).replace('{device_model}', marayaCon.user.phone.device_model).replace('{device_brand}', marayaCon.user.phone.device_manufacturer), MessageType.text) 
                 }
             }
         })
@@ -149,7 +149,7 @@ if (/\[(\W*)\]/.test(config.HANDLERS)) {
     setInterval(async () => { 
         var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        await axios.get('https://gist.githubusercontent.com/BlackAmda/c3877acdcdc041d77907d590d4ac1a2d/raw/').then(async (ann) => {
+        await axios.get('https://gist.githubusercontent.com/yasasdileepa/c3877acdcdc041d77907d590d4ac1a2d/raw/').then(async (ann) => {
             const { verify} = ann.data.announcements          
             if (verify !== '' && config.LANG == 'EN') {
                 while (getGMTh == 04 && getGMTm == 55) { 
@@ -166,7 +166,7 @@ if (/\[(\W*)\]/.test(config.HANDLERS)) {
     setInterval(async () => { 
         var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        await axios.get('https://gist.githubusercontent.com/BlackAmda/c3877acdcdc041d77907d590d4ac1a2d/raw/').then(async (ann) => {
+        await axios.get('https://gist.githubusercontent.com/yasasdileepa/c3877acdcdc041d77907d590d4ac1a2d/raw/').then(async (ann) => {
             const { verify} = ann.data.announcements          
             if (verify !== '' && config.LANG == 'EN') {
                 while (getGMTh == 12 && getGMTm == 55) { 
