@@ -1,9 +1,9 @@
-/* Copyright (C) 2020 YASAS DILEEPA.
+/* Copyright (C) 2021 Yasasdileepa .
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-WhatsAsena - Yusuf Usta
+KingMaraya - yasasdileepa 
 */
 
 const fs = require("fs");
@@ -104,7 +104,7 @@ async function whatsAsena () {
     })    
 
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
+        console.log(`${chalk.green.bold('King')}${chalk.blue.bold('Maraya')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
 
 ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
@@ -143,7 +143,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Plugins Installed!')
+            chalk.green.bold('✅ Maraya Plugins Installed!බොට් දැන් බාවිතා කල හැක')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -168,7 +168,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*MARAYA public ආකාරයට ක්‍රියාකිරිම ආරම්භ විය.👸*\n\n_කරුණාකර මෙහි command උත්සාහ නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක විධාන උත්සාහ කළ හැකිය :)_\n\n*ඔබේ command list එක ලබාගැනීමට .panel command එක භාවිතා කරන්න.*\n\n*ඔබේ bot public ක්‍රියාත්මක වේ. වෙනස් කිරීමට* _.setvar WORK_TYPE:private_ *විධානය භාවිතා කරන්න.*\n\n*Updates:* https://gist.github.com/kgamdaofficial/890b6b31fcb8d376d6a68afcb7359324\n\n*MARAYA භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Maraya public ආකාරයට ක්‍රියාකිරිම ආරම්භ විය.✅*\n\n_කරුණාකර මෙහි command උත්සාහ නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක විධාන උත්සාහ කළ හැකිය :)_\n\n*ඔබේ command list එක ලබාගැනීමට .maraya or .panel command එක භාවිතා කරන්න.*\n\n*ඔබේ bot public ක්‍රියාත්මක වේ. වෙනස් කිරීමට* _.setvar WORK_TYPE:private_ *විධානය භාවිතා කරන්න.*\n\n*Updates:* https://github.com/yasasdileepa/Maraya\n\n*Marayaභාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
                 }
             }
             else {
@@ -190,8 +190,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*MARAYA public ආකාරයට ක්‍රියාකිරිම ආරම්භ විය.👸*\n\n_කරුණාකර මෙහි command උත්සාහ නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක විධාන උත්සාහ කළ හැකිය :)_\n\n*ඔබේ command list එක ලබාගැනීමට .panel command එක භාවිතා කරන්න.*\n\n*ඔබේ bot public ක්‍රියාත්මක වේ. වෙනස් කිරීමට* _.setvar WORK_TYPE:private_ *විධානය භාවිතා කරන්න.*\n\n*Updates:* https://gist.github.com/kgamdaofficial/890b6b31fcb8d376d6a68afcb7359324\n\nMARAYA භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
-                
+                    await conn.sendMessage(conn.user.jid, '*Maraya public ආකාරයට ක්‍රියාකිරිම ආරම්භ විය.✅*\n\n_කරුණාකර මෙහි command උත්සාහ නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක විධාන උත්සාහ කළ හැකිය :)_\n\n*ඔබේ command list එක ලබාගැනීමට .maraya or.panel command එක භාවිතා කරන්න.*\n\n*ඔබේ bot public ක්‍රියාත්මක වේ. වෙනස් කිරීමට* _.setvar WORK_TYPE:private_ *විධානය භාවිතා කරන්න.*\n\n*Updates:* https://github.com/yasasdileepa/Maraya\n\nmaraya🎁භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
+                }
 
             }
         }
@@ -216,7 +216,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*MARAYA private ආකාරයට ක්‍රියාකිරිම ආරම්භ විය.👸*\n\n_කරුණාකර මෙහි command උත්සාහ නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක විධාන උත්සාහ කළ හැකිය :)_\n\n*ඔබේ command list එක ලබාගැනීමට .panel command එක භාවිතා කරන්න.*\n\n*ඔබේ bot private ක්‍රියාත්මක වේ. වෙනස් කිරීමට* _.setvar WORK_TYPE:public_ *විධානය භාවිතා කරන්න.Updates:* https://gist.github.com/yasas dileepa/890b6b31fcb8d376d6a68afcb7359324\n\n*\n\n*Maraya භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Maraya private ආකාරයට ක්‍රියාකිරිම ආරම්භ විය.✅*\n\n_කරුණාකර මෙහි command උත්සාහ නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක විධාන උත්සාහ කළ හැකිය :)_\n\n*ඔබේ command list එක ලබාගැනීමට.maraya or .panel command එක භාවිතා කරන්න.*\n\n*ඔබේ bot private ක්‍රියාත්මක වේ. වෙනස් කිරීමට* _.setvar WORK_TYPE:public_ *විධානය භාවිතා කරන්න.Updates:* https://github.com/yasasdileepa/Maraya\n\n*\n\n*MARAYAභාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
                 }
             }
             else {
@@ -239,7 +239,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*MARAYA private ආකාරයට ක්‍රියාකිරිම ආරම්භ විය.👸*\n\n_කරුණාකර මෙහි command උත්සාහ නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක විධාන උත්සාහ කළ හැකිය :)_\n\n*ඔබේ command list එක ලබාගැනීමට .panel command එක භාවිතා කරන්න.*\n\n*ඔබේ bot private ක්‍රියාත්මක වේ. වෙනස් කිරීමට* _.setvar WORK_TYPE:public_ *විධානය භාවිතා කරන්න.*\n\nUpdates:* https://gist.github.com/yasas dileepa/890b6b31fcb8d376d6a68afcb7359324\n\n*MARAYA භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Maraya private ආකාරයට ක්‍රියාකිරිම ආරම්භ විය.✅*\n\n_කරුණාකර මෙහි command උත්සාහ නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක විධාන උත්සාහ කළ හැකිය :)_\n\n*ඔබේ command list එක ලබාගැනීමට .maraya or .panel command එක භාවිතා කරන්න.*\n\n*ඔබේ bot private ක්‍රියාත්මක වේ. වෙනස් කිරීමට* _.setvar WORK_TYPE:public_ *විධානය භාවිතා කරන්න.*\n\nUpdates:* https://github.com/yasasdileepa/Maraya\n\n*Maraya bot භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
                 }
             }
         }
@@ -260,14 +260,14 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
             // see you message
             var gb = await getMessage(msg.key.remoteJid, 'goodbye');
             if (gb !== false) {
-                await conn.sendMessage(msg.key.remoteJid, fs.readFileSync("/root/Amdibell/media/gif/VID-20210518-WA0060.mp4"), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message});
+                await conn.sendMessage(msg.key.remoteJid, fs.readFileSync("/root/maraya/media/gif/VID-20210518-WA0060.mp4"), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message});
             }
             return;
         } else if (msg.messageStubType === 27 || msg.messageStubType === 31) {
             // Welcome message
             var gb = await getMessage(msg.key.remoteJid);
             if (gb !== false) {
-                await conn.sendMessage(msg.key.remoteJid, fs.readFileSync("/root/Amdibell/media/gif/VID-20210518-WA0059.mp4"), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message});
+                await conn.sendMessage(msg.key.remoteJid, fs.readFileSync("/root/maraya/media/gif/VID-20210518-WA0059.mp4"), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message});
             }
             return;
         }
@@ -338,22 +338,22 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                             await command.function(whats, match);
                         } catch (error) {
                             if (config.LANG == 'TR' || config.LANG == 'AZ') {
-                                await conn.sendMessage(conn.user.jid, '*-- දෝෂ වාර්තාව [MARAYA] --*\n\n' + 
+                                await conn.sendMessage(conn.user.jid, '*-- දෝෂ වාර්තාව [KINGMARAYA] --*\n\n' + 
                                     '\n*Bot දෝෂයක් සිදුවී ඇත!\n*'+
                                     '\n_මෙම දෝෂ logs ඔබගේ අංකය හෝ ප්‍රති පාර්ශ්වයේ අංකය අඩංගු විය හැකිය. කරුණාකර එය සමග සැලකිලිමත් වන්න!_\n' +
                                     '\n_උදව් සඳහා ඔබට අපගේ whatsapp support කණ්ඩායමට ලිවිය හැකිය._\n' +
                                     '\n_මෙම පණිවිඩය ඔබගේ අංකයට ගොස් තිබිය යුතුය (සුරකින ලද පණිවිඩ)_\n\n' +
 
-                                    '\n_https://chat.whatsapp.com/Hkm79J2sapyLGD0rvRTfkq ඔබට එය මෙම group යොමු කළ හැකිය._\n\n' +
+                                    '\n_  https://chat.whatsapp.com/IgFh0yQPaHU9tv1lrRaqLF ඔබට එය මෙම group යොමු කළ හැකිය._\n\n' +
                                     '*සිදු වූ දෝෂය:* ```' + error + '```\n\n'
                                     , MessageType.text, {detectLinks: false});
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*-- බොට් වාර්තාව [MARAYA] --*\n' + 
+                                await conn.sendMessage(conn.user.jid, '*-- බොට් වාර්තාව [KINGMARAYA] --*\n' + 
                                     '\n*බොට් නිසි ලෙස ක්රියා කරයි.*\n'+
                                     '\n_Message logs ඔබගේ අංකය හෝ ප්‍රති පාර්ශ්වයේ අංකය අඩංගු විය හැකිය. කරුණාකර එය සමග සැලකිලිමත් වන්න!_\n' +
                                     '\n_උදව් සඳහා ඔබට අපගේ whatsapp support කණ්ඩායමට ලිවිය හැකිය._\n' +
                                     '\n_(සුරකින ලද පණිවිඩ)_\n\n' +
-                                    '\n_ඔබේ bot සඳහා යම් උදව්වක් අවශ්‍ය නම්, https://chat.whatsapp.com/Hkm79J2sapyLGD0rvRTfkq_\n\n' +
+                                    '\n_ඔබේ bot සඳහා යම් උදව්වක් අවශ්‍ය නම් https://chat.whatsapp.com/IgFh0yQPaHU9tv1lrRaqLF , _\n\n' +
                                     '*Report:* ```' + error + '```\n\n'
                                     , MessageType.text);
                             }
@@ -379,4 +379,4 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
     }
 }
 
-whatsAsena();
+kingmaraya();
