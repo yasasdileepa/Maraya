@@ -2,8 +2,7 @@
 ඔයාලත් හදලා බලන්න පහල අපෙ ශපොට් group එක තියෙනවා
 [![Profile views](https://komarev.com/ghpvc/?username=king-ravana-SL&label=Profile%20Views&color=red)](https://github.com/yasasdileepa/slDILEEPA)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+Maraya+whatsapp+bot+%F0%9F%92%8C;You+can+made+my+bot+;And+fun+%F0%9F%98%85;Thanks+for+visiting+%F0%9F%99%8F;Subscribe+my+you+tube+chanel+;And+thanks+for+all+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72194&size=15&lines=Hi+im+Maraya+whatsapp+bot+coded+by+yasas+dileepa;You+can+made+Maraya+whatsapp+bot;And+funy+momen;Thanks+to+yasas+dileepa;And+adisha+lakshitha+%2C+KG+amda+%2C+MR+dina+and+Black+Amda;%E2%9D%A4%EF%B8%8F%F0%9F%A4%B4%E2%9D%A4%EF%B8%8F++;%F0%9F%A4%B4King+Maraya%F0%9F%A4%B4)](https://git.io/typing-svg)
   <img src="https://i.ibb.co/99Nfwfy/a62902c0458a23d705492bb701371a43-cool-wallpapers-for-iphone-wallpaper-for-iphone.jpg" width="300" height="300">      
   <h1>maraya 😼</h1>  
        | © | MADE BY DILEEPA |
