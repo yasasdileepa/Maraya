@@ -17,21 +17,21 @@ async function whatsAsena() {
 
 	conn.on('connecting', async () => {
 		console.log(`${chalk.green.bold('SL')}${chalk.blue.bold('Dileepa🐱‍👤')}
-${chalk.white.italic('RAVANAString')}
+${chalk.white.italic('MarayaString')}
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
 	});
 
 	conn.on('open', async () => {
 		console.log(
-			chalk.green.bold('Dileepa🐱‍👤 QR Code: '),
-			'Dileepa🐱‍👤;;;' +
+			chalk.green.bold('Maraya🐱‍👤 QR Code: '),
+			'Maraya🐱‍👤;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
 				)
 		);
 		await conn.sendMessage(
 			conn.user.jid,
-			'Dileepa🐱‍👤;;;' +
+			'Maraya🐱‍👤;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
 				),
