@@ -19,7 +19,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 Click Whatsapp logo to Join Support Group 👇
 <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/F8av3DvPCt8DPcZH7ZREMC)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IgFh0yQPaHU9tv1lrRaqLF)
   <div align="center">
      
   </div>
