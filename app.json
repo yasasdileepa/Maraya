@@ -130,8 +130,8 @@
         },
         "IMGBB_API_KEY": {
             "description": "IMGBB API Key. WELCOME MESSEGE සඳහා අවශ්‍යතාවය. www.imgbb.com/",
-            "required": false,
-            "value": "true"
+            "required": true
+            
         }
     },
     "addons": [{
