@@ -26,7 +26,7 @@ Click Whatsapp logo to Join Support Group 👇
   
   ## 🐱‍👤මාරයා bot විශේෂාංග
 🐱‍👤මාරයා bot විශේෂාංග මෙන්න.
-<a href="https://gist.github.com/ https://gist.github.com/yasasdileepa/7a3bc29b084c3347006a8a69b532287a">
+<a href="https://gist.github.com/yasasdileepa/7a3bc29b084c3347006a8a69b532287a">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 ### HOW TO MADE THIS BOT CLICK THIS LOGO 👇
 [![Chethana_Broh-TeenuhX](https://github.com/yasasdileepa/maraya/blob/main/IMG-20211030-WA0010.png)](https://youtu.be/DjyQX8KJGKg)
