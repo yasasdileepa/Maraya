@@ -6,6 +6,8 @@
   <img src="https://i.ibb.co/99Nfwfy/a62902c0458a23d705492bb701371a43-cool-wallpapers-for-iphone-wallpaper-for-iphone.jpg" width="300" height="300">      
   <h1>maraya 😼</h1>  
        | © | MADE BY DILEEPA |
+
+## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="https://yasasdileepa.github.io/Maraya/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
     
    
 ### ⚠️ Warning! 
@@ -48,4 +50,3 @@ Click Whatsapp logo to Join Support Group 👇
 <td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/2dw0THr/Screenshot-20211031-110753-Whats-App.jpg" width="100" height="100" alt="Yasas dilipa"></a></td><td><a href="httsp://github.com/kgamdaofficial">Yasas dilipa</a></br>(founder)</td><td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/VBzzh95/LOGO.jpg" width="100" height="100" alt="Adeesha"></a></td><td><a href="httsp://github.com/kgamdaofficial">Adeesha</a></br>(co-host)</td>
 
 												<td><a 
-## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="https://yasasdileepa.github.io/Maraya/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
