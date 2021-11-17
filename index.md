@@ -8,30 +8,16 @@ You wont this bot deploy to heroku [deploy to heroku](https://heroku.com/deploy?
 
 Yasasdileepa  is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```yasasdileepa
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yasasdileepa/Maraya/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+yasasdileepa
+ ### Support or Contact
 
 Having trouble with Pages? Check out our [my github bot page](https://github.com/yasasdileepa/Maraya) or [contact support](https://wa.me/message/2IDMTUDDSQQKD1) and we’ll help you sort it out.
+ And Maraya team 
+[adisha lakshitha](https://github.com/Adeeshalakshitha)
+[KG AmdA](https://github.com/AmdaOfficial)
+### and founder is 
+### [yasas dileepa](https://github.com/yasasdileepa)
+Wow you wont look my you tube chanel ✅
+[My you tube chanel](https://youtube.com/channel/UCYpzhRBGT4x3avaE3DR5_jA)
+Thanks for visit 👋
+🤴Im king Maraya🤴
