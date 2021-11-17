@@ -39,7 +39,7 @@ Click Whatsapp logo to Join Support Group 👇
    🔌කරුනාවෙන් සලකන්න ඔබ සැම්සුන් පොන් බාවිත කරන්නෙක් නම් ඔබ සැම්සුන් ඉන්ටනෙට් එකෙන් ස්කැන් කරන්න එවිට ස්කැන් වෙ
 
   ### Simple Method
-### පලමු පියවර QR කෙතය සදහා 👇
+### පලමු පියවර QR කෙතය සදහා 👇🤴
 [![Run on Repl.it](https://raw.githubusercontent.com/Sew01RaviduManoj01KingAndQueen/QueenSew/master/resources/gif/qr-scan.gif)](https://replit.com/@yasasdileepa/MARAYA-1?v=1)
 ### දෙවන පියවර Bot deploy කිරිමට 👇       
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/maraya)
