@@ -1,9 +1,9 @@
-/* Copyright (C) 2020 Yusuf Usta.
+/* Copyright (C) 2021 yasasdileepa.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-WhatsAsena - Yusuf Usta
+Maraya - yasasdileepa
 */
 
 const chalk = require('chalk');
@@ -13,34 +13,34 @@ const fs = require('fs');
 async function whatsAsena() {
 	const conn = new WAConnection();
 	conn.logger.level = 'warn';
-	conn.version = [2, 2119, 6];
+	conn.version = [3, 3234, 9]
 
 	conn.on('connecting', async () => {
-		console.log(`${chalk.green.bold('SL')}${chalk.blue.bold('Dileepa🐱‍👤')}
-${chalk.white.italic('MarayaString')}
+		console.log(`${chalk.green.bold('KING')}${chalk.blue.bold('Maraya')}
+${chalk.white.italic('Maraya Strings')}
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
 	});
 
 	conn.on('open', async () => {
 		console.log(
-			chalk.green.bold('Maraya🐱‍👤 QR Code: '),
-			'Maraya🐱‍👤;;;' +
+			chalk.green.bold('MARAYA QR Code: '),
+			'MARAYA;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
 				)
 		);
 		await conn.sendMessage(
 			conn.user.jid,
-			'Maraya🐱‍👤;;;' +
+			'MARAYA;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
 				),
 			MessageType.text
 		);
-		if (conn.user.jid.startsWith('90')) {
+		if (conn.user.jid.startsWith('94')) {
 			await conn.sendMessage(
 				conn.user.jid,
-				'*⚠️ Lütfen Bu Kodu Kimseyle Paylaşma ' + conn.user.name + '* ⚠️',
+				'*⚠️ Meka yavanna epa katawath ' + conn.user.name + '* ⚠️',
 				MessageType.text
 			);
 		} else {
@@ -54,7 +54,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
 		}
 		console.log(
 			chalk.green.bold(
-				"EĞER MESAJI KOPYALAMIYORSANIZ LÜTFEN WHATSAPP'I KONTROL EDİN. KENDİ NUMARANIZA QR KODU GÖNDERİLDİ!\n"
+				"Meka copy karanna bari nam bn whatsapp eke athi bn code eka awith!\n"
 			),
 			chalk.green.bold(
 				'IF YOU CANNOT COPY THE MESSAGE, PLEASE CHECK WHATSAPP. QR CODE SENT TO YOUR OWN NUMBER!'
@@ -67,3 +67,4 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
 }
 
 whatsAsena();
+
