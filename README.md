@@ -45,8 +45,8 @@ Click Whatsapp logo to Join Support Group 👇
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/maraya)
      </div>
   ### very simple method 
- we are working on it
+ ```we are working on it```
 ### maraya team
-<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/2dw0THr/Screenshot-20211031-110753-Whats-App.jpg" width="100" height="100" alt="Yasas dilipa"></a></td><td><a href="httsp://github.com/kgamdaofficial">Yasas dilipa</a></br>(founder)</td><td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/VBzzh95/LOGO.jpg" width="100" height="100" alt="Adeesha"></a></td><td><a href="httsp://github.com/kgamdaofficial">Adeesha</a></br>(co-host)</td>
+<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/2dw0THr/Screenshot-20211031-110753-Whats-App.jpg" width="100" height="100" alt="Yasas dilipa"></a></td><td><a href="httsp://github.com/kgamdaofficial">Yasas dilipa</a></br>(founder)</td><td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/VBzzh95/LOGO.jpg" width="100" height="100" alt="Adeesha"></a></td><td><a href="httsp://github.com/kgamdaofficial">Adeesha</a></br>(co-host)</td> <td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/Cscpfg5/Screenshot-20211120-110016-Chrome.jpg" width="100" height="100" alt="dinuka"></a></td><td><a href="httsp://github.com/kgamdaofficial">dinuka</a></br>(idas)</td><td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/b2F6TsS/Screenshot-20211120-110644-Whats-App-Business.jpg"width="100"height="100"alt="black wampare"></a></td><td><a href="httsp://github.com/kgamdaofficial">black wampare </a></br>(meneger)</td>       
 
 												<td><a 
