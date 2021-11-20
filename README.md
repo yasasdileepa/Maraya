@@ -9,6 +9,7 @@
 
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="https://yasasdileepa.github.io/Maraya/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
     
+ [![GitHub Actions Demo](https://github.com/yasasdileepa/Maraya/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/yasasdileepa/Maraya/actions/workflows/github-actions-demo.yml)
    
 ### ⚠️ Warning! 
 ```
@@ -23,7 +24,8 @@ Click Whatsapp logo to Join Support Group 👇
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IgFh0yQPaHU9tv1lrRaqLF)
   <div align="center">
-     
+    
+	
   </div>
   
   ## 🐱‍👤මාරයා bot විශේෂාංග
