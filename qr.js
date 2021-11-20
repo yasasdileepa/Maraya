@@ -67,4 +67,3 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
 }
 
 whatsAsena();
-
