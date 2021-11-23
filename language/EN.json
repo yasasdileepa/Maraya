@@ -72,7 +72,7 @@
             "MUST_TEXT": "```කරුණාකර ඕනෑම පණිවිඩයකට tag දෙන්න```"
         },
         "heroku": {
-            "RESTART_DESC": "Queen Amdi නැවත ආරම්භ කරන්න",
+            "RESTART_DESC": "maraya නැවත ආරම්භ කරන්න",
             "RESTART_MSG": "```Restarting...```",
             "SHUTDOWN_DESC": "Shutdown",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
