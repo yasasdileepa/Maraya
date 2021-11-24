@@ -66,4 +66,4 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
 	await conn.connect();
 }
 
-whatsAsena();
+whatsAsena(); 
