@@ -27,14 +27,14 @@ if (Config.WORKTYPE == 'private') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```😈💀 Hey There! I'm Online now. 😉```\n\n*Version:* ```v1.5 - Stable```\n\n*Developer:* ```yasas dileepa | Dark Amda```\n\n*Support Group :* https://chat.whatsapp.com/H79J2pyLGq\n\n*channel :* https://www.youtube.com/channel/EU95-Wn9m5vQ\n\n```Thank You For Using maraya😈```"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```😈💀 Hey There! I'm Online now. 😉```\n\n*Version:* ```v1.5 - Stable```\n\n*Developer:* ```yasas dileepa```\n\n\n\n*channel https://www.youtube.com/channel/UCYpzhRBGT4x3avaE3DR5_jA :* \n\n```Thank You For Using maraya😈```"})
 
     }
     else {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Copyright © 2021 | ☠ Maraya ☠ | K.G CRIMINAL LEGION*' })
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Copyright © 2021 | ☠ Maraya ☠ *' })
      }
     }));
 
@@ -59,14 +59,14 @@ else if (Config.WORKTYPE == 'public') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```😈💀 Hey There! I'm Online now. 😉```\n\n*Version:* ```v1.5 - Stable```\n\n*Developer:* ```Yasas dileepa | Dark Amda```\n\n*Support Group :* https://chat.whatsapp.com/H79JTfkq\n\n*channel :* https://www.youtube.com/channel/UCZxU5-mH415vQ\n\n```Thank You For Using maraya😈```"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```😈💀 Hey There! I'm Online now. 😉```\n\n*Version:* ```v1.5 - Stable```\n\n*Developer:* ```Yasas dileepa ```\n\n\n\n*channel :*https://www.youtube.com/channel/UCYpzhRBGT4x3avaE3DR5_jA \n\n```Thank You For Using maraya😈```"})
 
     }
     else {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Copyright © 2021 | ☠ Maraya ☠ | K.G CRIMINAL LEGION*' })
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Copyright © 2021 | ☠ Maraya ☠ |*' })
      }
     }));
 
