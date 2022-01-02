@@ -107,7 +107,7 @@ async function whatsAsena () {
         console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
 
-${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
+${chalk.blue.italic('🎭 Connecting to WhatsApp... Please Wait.🎭')}`);
     });
     
 
@@ -143,7 +143,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Plugins Installed!')
+            chalk.green.bold('✅ Plugins Installed!🎭')
         );
         await new Promise(r => setTimeout(r, 1100));
 
