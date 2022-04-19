@@ -7,7 +7,7 @@
   <h1>maraya 😼</h1>  
        | © | MADE BY DILEEPA |
 
-## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="https://yasasdileepa.github.io/Maraya/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
+## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="file:///C:/Users/DILRANGA/Desktop/New%20folder%20(3)/indexf.html"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
     
  [![GitHub Actions Demo](https://github.com/yasasdileepa/Maraya/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/yasasdileepa/Maraya/actions/workflows/github-actions-demo.yml)
    
